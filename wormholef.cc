@@ -1,7 +1,4 @@
 /* Wormhole Attack Simulation with AODV Routing Protocol - Sample Program
- * 
- * Authors : Amita Kamath, Chirag Jamadagni
- *
 #include "ns3/aodv-module.h"
 #include "ns3/netanim-module.h"
 #include "ns3/core-module.h"
